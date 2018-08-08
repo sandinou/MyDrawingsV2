@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/color"
+        android:enabled="true"
+        android:icon="@drawable/paint_palette"
+        android:title="@string/color"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/brush_size"
+        android:enabled="true"
+        android:icon="@drawable/brush"
+        android:title="@string/brush"
+        android:visible="true"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/color_fill"
+        android:enabled="true"
+        android:icon="@drawable/colorfill"
+        android:title="@string/fill"
+        android:visible="true"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/undo"
+        android:enabled="true"
+        android:icon="@drawable/undo_white"
+        android:title="@string/undo"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/redo"
+        android:enabled="true"
+        android:icon="@drawable/redo_white"
+        android:title="@string/redo"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/erase"
+        android:enabled="true"
+        android:icon="@drawable/gomme"
+        android:title="@string/erase"
+        android:visible="true"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/clear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:icon="@drawable/clear"
+        android:title="@string/clear"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/save"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/save"
+        android:title="@string/save"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/help"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/question"
+        android:title="@string/help"
+        android:visible="true"
+        app:showAsAction="ifRoom" />ֿ
+
+    <item
+        android:id="@+id/close"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Close"
+        app:showAsAction="ifRoom"/>
+
+</menu>
+

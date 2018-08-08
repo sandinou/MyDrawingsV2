@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mydrawingsv2.MainActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/myRL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.mydrawingsv2.MyPathDrawColor
+            android:id="@+id/myPathDrawColor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

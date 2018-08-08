@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">V2 הציורים שלי</string>
+    <string name="clear">לנקות את הכל</string>
+    <string name="screen_clear">המסך נקה!</string>
+    <string name="erase">למחוק</string>
+    <string name="help">עזרה</string>
+    <string name="close">לסגור</string>
+    <string name="color">צבע</string>
+    <string name="brush">גודל מברשת</string>
+    <string name="save"> לשמור</string>
+    <string name="undo">לבטל</string>
+    <string name="redo">לעשות שוב</string>
+    <string name="fill">צבע מילוי</string>
+    <string name="message">אם אתה צריך עזרה,לחץ על תפריט העזרה </string>
+    <string name="brush_size">גודל מברשת: </string>
+    <string name="choose_brush">בחר גודל מברשת </string>
+    <string name="help_explanations">כדי לשנות את הצבע, לחץ על לוח הצבעים ובחר את הצבע הרצוי.
+        \n\nכדי לשנות את גודל המברשת, לחץ על הסיר עם המברשות ובחר את הגודל הרצוי.
+        \n\nאם ברצונך לשנות את צבע הרקע, בחר צבע ולאחר מכן לחץ על דלי הצבע או עבור לתפריט ולחץ על צבע מילוי
+        \n\nאם רוצה למחוק חלק מהציור, בחר באפשרות מחק מהתפריט.
+        \n\nבאפשרותך לחזור על הציור שלך פעמים רבות ככל שתרצה על ידי מעבר לתפריט ובחר באפשרות לנקות את הכל
+        \n\nאם ברצונך לשמור את הציור בטלפון, עבור לתפריט ובחר לשמור
+    </string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mes Dessins V2</string>
+    <string name="clear">Tout effacer</string>
+    <string name="screen_clear">Ecran effacé !</string>
+    <string name="message">Si tu as besoin d\'aide, va dans le menu et appuie sur Aide.</string>
+    <string name="erase">Gommer</string>
+    <string name="help">Aide</string>
+    <string name="close">fermer</string>
+    <string name="color">Couleur</string>
+    <string name="fill">Remplir</string>
+    <string name="undo">Annuler</string>
+    <string name="redo">Refaire</string>
+    <string name="save"> Enregister</string>
+    <string name="brush_size">Taille pinceau: </string>
+    <string name="choose_brush">Choisis la taille du pinceau</string>
+    <string name="brush">Taille pinceau</string>
+
+
+    <string name="help_explanations">Pour changer de couleur, appuie sur la palette de peinture et choisi la couleur que tu veux.\n\nPour changer la taille du pinceau, appuie sur le pot avec les pinceaux et choisi la taille que tu désires.
+    \n\nSi tu veux changer la couleur du fond, choisi une couleur et ensuite appuie sur le pot de peinture ou vas dans le menu et appuie sur Remplir.
+    \n\nSi tu veux effacer une partie de ton dessin, choisi Gommer dans le menu.
+    \n\nTu peux recommencer ton dessin autant de fois que tu veux en allant dans le menu et choisir Tout effacer.
+    \n\nSi tu veux enregistrer ton dessin sur ton téléphone, il te suffit d\'aller dans le menu et de choisir Enregistrer.
+    </string>
+</resources>

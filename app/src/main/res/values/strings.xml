@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyDrawingsV2</string>
+    <string name="clear">Clear all</string>
+    <string name="screen_clear">Screen cleared !</string>
+    <string name="erase">Erase</string>
+    <string name="help">Help</string>
+    <string name="close">Close</string>
+    <string name="color">Color</string>
+    <string name="brush">Brush Size</string>
+    <string name="save"> Save</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="fill">Fill Color</string>
+    <string name="message">If you need help, click to the help menu</string>
+    <string name="brush_size">Brush size: </string>
+    <string name="choose_brush">Choose brush size</string>
+
+    <string name="help_explanations">To change the color, press the paint palette and choose the color you want.
+        \n\nTo change the size of the brush, press the pot with the brushes and choose the size you want.
+        \n\nIf you want to change the color of the background, select a color and then press the paint bucket or go to the menu and press Fill Color.
+        \n\nIf you want to erase part of your drawing, choose Erase from the menu.
+        \n\nYou can repeat your drawing as many times as you want by going to the menu and choose Clear all.
+        \n\nIf you want to save your drawing on your phone, just go to the menu and choose Save.
+    </string>
+</resources>
